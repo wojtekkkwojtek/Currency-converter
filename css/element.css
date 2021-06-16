@@ -1,3 +1,10 @@
 .element{
 background-image: url("/john-mcarthur-ROQzKIAdY78-unsplash.jpg");
+max-width: 700px;
+margin: 30px auto;
+resize: both;
+overflow: auto;
+background-size: cover;
+background-position: center;
+background-attachment: scroll;
 }
