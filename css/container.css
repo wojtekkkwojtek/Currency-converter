@@ -3,11 +3,13 @@
 }
 
 .container__result{
-    padding: 30px;
+    padding: 5px;
     text-align: center;
-    font-size:x-large
+    font-size:45px
 }
 
 .container__paragraph{
     text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
 }
