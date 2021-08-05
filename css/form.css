@@ -16,7 +16,7 @@
 }
 
 .form__field:required{
-    border-color: red;
+    border-color: rgb(0, 47, 255);
 }
 
 .form__field:valid{
